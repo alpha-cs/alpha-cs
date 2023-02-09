@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I go by alpha online and I am software engineer👋</h1>
 <!-- GitHub Visual Stats -->
-<a href="https://github.com/jstrieb/github-stats" align="center">
+<a href="[https://github.com/jstrieb/github-stats](https://github.com/alpha-cs)" align="center">
 
 ![](https://github.com/Gjonathan252/GitHub-Stats-Visualization/blob/master/generated/overview.svg)
 ![](https://github.com/Gjonathan252/GitHub-Stats-Visualization/blob/master/generated/languages.svg)
